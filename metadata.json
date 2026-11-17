@@ -1,0 +1,6 @@
+{
+  "name": "NESAC MPR Intelligence Agent",
+  "description": "AI-powered Monthly Progress Report (MPR) Compilation System for North Eastern Space Applications Centre (NESAC) with OOXML DOCX extraction, Gemini classification, duplicate detection, author intelligence, and DOCX/XLSX reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
